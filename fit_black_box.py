@@ -1,5 +1,7 @@
 # `# -*- coding: utf-8 -*-
 """
+This code, excluding the R^2 and chi^2 tests, was taken from the PHY180 Pendulum Lab resources.
+
 This program will find the best fit of a given function to a given set
 of data (including errorbars). It prints the results, with uncertainties.
 Then it plots the graph and displays it to the screen, and also saves
